@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Personal Website](https://www.behance.net/gallery/192333837/Personal-Portfolio-Eliza-Teodora-Doltu)
 
-- 🌱 I’m currently learning **Node.js, GSAP, Tailwind CSS, Java**
+- 🌱 I’m currently learning **Node.js, GSAP, Java**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [https://outstanding-rest-134.notion.site/MY-PORTFOLIO-SO-FAR-4a269aa041be4ff0b84e9448af7e6051?pvs=74](https://outstanding-rest-134.notion.site/MY-PORTFOLIO-SO-FAR-4a269aa041be4ff0b84e9448af7e6051?pvs=74)
 
-- 💬 Ask me about **ReactJs, JavaScript, HTML5, CSS3, CSS Module, Figma**
+- 💬 Ask me about **ReactJs, JavaScript, HTML5, CSS3, CSS Module, Figma, Tailwind CSS**
 
 - 📫 How to reach me **elizadoltuofficial@gmail.com**
 
