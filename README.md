@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizadoltu&label=Profile%20views&color=0e75b6&style=flat" alt="elizadoltu" /> </p>
 
-- 🔭 I’m currently working on [Personal Website](https://www.behance.net/gallery/192333837/Personal-Portfolio-Eliza-Teodora-Doltu)
+- 🔭 I’m currently working on [Urban Oasis](https://www.behance.net/gallery/203169693/Urban-Oasis-Breathe-Life-Into-Your-City)
 
 - 🌱 I’m currently learning **Node.js, GSAP, Java**
 
