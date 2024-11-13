@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizadoltu&label=Profile%20views&color=0e75b6&style=flat" alt="elizadoltu" /> </p>
 
-- 🔭 I’m currently working on [Urban Oasis](https://www.behance.net/gallery/203169693/Urban-Oasis-Breathe-Life-Into-Your-City)
+- 🔭 I’m currently working on [Real Estate Management App](https://github.com/edwardedi/RealEstateManagement)
 
-- 🌱 I’m currently learning **Node.js, GSAP, Java**
+- 🌱 I’m currently learning **ThreeJs, React Three Fiber, Blender, .NET**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
